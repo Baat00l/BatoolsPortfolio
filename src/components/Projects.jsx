@@ -14,7 +14,7 @@ function Projects() {
     <section id="projects" className="section fade-section">
       <div className="section-header">
         <p className="eyebrow">Projekt</p>
-        <h2>Webbprojekt framtagna under utbildningen</h2>
+        <h2>Webbprojekt under studierna</h2>
       </div>
 
       <div className="project-grid">
