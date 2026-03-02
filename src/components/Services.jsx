@@ -9,7 +9,7 @@ function Services() {
     <section id="expertise" className="section fade-section">
       <div className="section-header">
         <p className="eyebrow">Tjänster</p>
-        <h2>Vad jag erbjuder</h2>
+        <h2>Från idé till färdig digital upplevelse</h2>
       </div>
 
       <div className="service-list">
