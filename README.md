@@ -148,11 +148,9 @@ Detta projekt har stärkt min självkänsla som webbutvecklare och gett mig en p
 ---
 
 # 🔮 Framtida förbättringar  
-- Lägga till en **blogg/reflektionssektion**  
-- Implementera **dark/light mode**  
-- Bygga om projektgalleriet med **React‑router**  
-- Lägga till fler projekt från utbildningen  
-- Förbättra SEO och prestanda ytterligare  
+- Implementera **dark/light mode**   
+- Förbättra SEO och prestanda ytterligare
+- Göra kontaktformuläret fungerande så att meddelanden skickas till min e‑post.
 
 ---
 
