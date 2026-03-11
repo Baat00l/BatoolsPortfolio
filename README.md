@@ -34,7 +34,7 @@ Syftet med projektet är att utveckla en **personlig och professionell portfolio
 - Presentera projekt och kompetenser på ett tydligt och attraktivt sätt  
 - Implementera interaktivitet med React och JavaScript  
 - Strukturera SCSS professionellt med variabler, komponenter och partials  
-- Publicera projektet online med korrekt deployment (Netlify)  
+- Publicera projektet online med korrekt deployment (Vercel)  
 
 ---
 
