@@ -129,7 +129,7 @@ vite.config.js → Vite‑konfiguration
 
 ### **5. Deployment**
 - GitHub  
-- Netlify (live‑version)  
+- Vercel (live‑version)  
 
 ---
 
