@@ -8,12 +8,12 @@ function Skills() {
         "CSS / SASS",
         "JavaScript",
         "Next.js",
+        "C#",
         "WordPress",
         "Design & UX",
         "Programmering",
-         "C#",
-        "Responsiv design",
         "GitHub",
+        "Responsiv design",
         "Komponentbaserad utveckling"
 
       ]
