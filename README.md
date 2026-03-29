@@ -196,4 +196,4 @@ npm run dev
 ```
 
 ### 4. Öppna projektet
-Vite visar en lokal URL, t.ex.: `http://localhost:5173/`
+Vite visar en lokal URL, t.ex.: `http://localhost:8080/`
