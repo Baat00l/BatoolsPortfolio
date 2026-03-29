@@ -1,5 +1,7 @@
 # 🌟 Batool Fahmi – Portfolio 
 
+> Tillgängliga språk: [🇸🇪 Svenska](README.md) | [🇬🇧 English](README.eng.md)
+
 En modern, responsiv och professionell portfolio byggd i **React + TypeScript + Vite + Tailwind CSS**, skapad för att visa upp mina projekt, min kompetens och min resa som webbutvecklare.
 
 Detta projekt är mitt **examensarbete** på **TUC Yrkeshögskola**, där jag studerar **Webbutveckling (2024–2026)**.
