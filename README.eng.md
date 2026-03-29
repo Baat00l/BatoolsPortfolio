@@ -91,6 +91,8 @@ The goal of this project is to create a **personal and professional portfolio** 
 
 ## 📂 Project Structure
 
+---
+
 /src
 /assets        → images & graphics
 /components    → React components
