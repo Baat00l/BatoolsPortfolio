@@ -147,7 +147,7 @@ package.json       → Dependencies & scripts
 - Prestanda och användarvänlighet
 
 ### 5. Deployment
-- GitHub + Lovable
+- GitHub + Vercel
 
 ---
 
