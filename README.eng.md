@@ -91,23 +91,23 @@ The goal of this project is to create a **personal and professional portfolio** 
 
 ## 📂 Project Structure
 
----
-
+```
 /src
-/assets        → images & graphics
+/assets        → images and graphics
 /components    → React components
 /sections    → Page sections (Hero, About, Skills, etc.)
 /ui          → Reusable UI components
 /hooks         → Custom React hooks
 /lib           → Utilities, i18n, theme
 /pages         → Page components
-App.tsx        → Main component
+App.tsx        → Main application component
 main.tsx       → Entry point
 index.css      → Design system (CSS variables)
 
 tailwind.config.ts → Tailwind configuration
 index.html         → Vite HTML template
 package.json       → Dependencies & scripts
+```
 
 ---
 
