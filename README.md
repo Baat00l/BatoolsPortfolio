@@ -11,6 +11,7 @@ Detta projekt är mitt **examensarbete** på **TUC Yrkeshögskola**, där jag st
 ## 🔗 Live Demo
 
 *(Publiceras via Vercel)*
+https://bfportfolio.vercel.app/
 
 ---
 
