@@ -1,4 +1,4 @@
-# 🌟 Batool Fahmi – Portfolio v2
+# 🌟 Batool Fahmi – Portfolio 
 
 En modern, responsiv och professionell portfolio byggd i **React + TypeScript + Vite + Tailwind CSS**, skapad för att visa upp mina projekt, min kompetens och min resa som webbutvecklare.
 
@@ -8,7 +8,7 @@ Detta projekt är mitt **examensarbete** på **TUC Yrkeshögskola**, där jag st
 
 ## 🔗 Live Demo
 
-*(Publiceras via Lovable)*
+*(Publiceras via Vercel)*
 
 ---
 
