@@ -56,7 +56,7 @@ function Projects() {
   <p>Databasstruktur och backend‑logik.</p>
 </a>
 
-{/* Extra projekt – visas bara om showMore är true */}
+{/* Extra projekt */}
 {showMore && (
   <>
  
